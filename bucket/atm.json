@@ -1,13 +1,13 @@
 {
-  "version": "1.4.4",
+  "version": "1.5.0",
   "description": "CLI for local agent team mail workflows",
   "homepage": "https://github.com/randlee/atm-core",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/randlee/atm-core/releases/download/v1.4.4/atm_1.4.4_x86_64-pc-windows-msvc.zip",
-      "hash": "e787c380d28b9ab0fda69275125bb29813f1420d9005f1f136b2554ee84f04a2",
-      "extract_dir": "atm_1.4.4_x86_64-pc-windows-msvc",
+      "url": "https://github.com/randlee/atm-core/releases/download/v1.5.0/atm_1.5.0_x86_64-pc-windows-msvc.zip",
+      "hash": "1b99a608168b4ae590b63a69acdbbfb3fbaa9fb8bd623c528747081e2a03baac",
+      "extract_dir": "atm_1.5.0_x86_64-pc-windows-msvc",
       "bin": "bin/atm.exe"
     }
   }
