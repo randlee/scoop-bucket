@@ -1,13 +1,13 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Native webview dialogs for CLI agents (JSON in / JSON out)",
   "homepage": "https://github.com/randlee/wyvern",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/randlee/wyvern/releases/download/v0.6.0/wyvern_0.6.0_x86_64-pc-windows-msvc.zip",
-      "hash": "d330f7f7903a738640613a497975b88fcdeab3fbb03ca4b27619dbc138ec0835",
-      "extract_dir": "wyvern_0.6.0_x86_64-pc-windows-msvc",
+      "url": "https://github.com/randlee/wyvern/releases/download/v0.7.0/wyvern_0.7.0_x86_64-pc-windows-msvc.zip",
+      "hash": "a4e94411b9a21acd7431ff94231d1974179cfd8852e7641c972ac8a4117d5d17",
+      "extract_dir": "wyvern_0.7.0_x86_64-pc-windows-msvc",
       "bin": "bin/wyvern.exe"
     }
   }
