@@ -1,13 +1,13 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Reusable repository policy enforcement lint tools for Rust workspaces",
   "homepage": "https://github.com/randlee/sc-lint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/randlee/sc-lint/releases/download/v0.7.1/sc-lint_0.7.1_x86_64-pc-windows-msvc.zip",
-      "hash": "2ee6f0f7f33a56ef85ca3c65579dd03889d41d6514e93adda70dedba3a6d64c2",
-      "extract_dir": "sc-lint_0.7.1_x86_64-pc-windows-msvc",
+      "url": "https://github.com/randlee/sc-lint/releases/download/v0.7.2/sc-lint_0.7.2_x86_64-pc-windows-msvc.zip",
+      "hash": "77619afe628e6a2b45529a6c349ababb0b320beb7da06958ac2812f91470b39c",
+      "extract_dir": "sc-lint_0.7.2_x86_64-pc-windows-msvc",
       "bin": "bin/sc-lint.exe"
     }
   }
