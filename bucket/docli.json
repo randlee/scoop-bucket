@@ -1,13 +1,13 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Language-agnostic CLI documentation generator: HTML + Markdown from a neutral command-tree JSON",
   "homepage": "https://github.com/randlee/docli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/randlee/docli/releases/download/v0.1.0/docli_0.1.0_x86_64-pc-windows-msvc.zip",
-      "hash": "cc246f3d8e099618438bec5c90323df118b8a371c02cedf78c81df4fc6851f62",
-      "extract_dir": "docli_0.1.0_x86_64-pc-windows-msvc",
+      "url": "https://github.com/randlee/docli/releases/download/v0.2.0/docli_0.2.0_x86_64-pc-windows-msvc.zip",
+      "hash": "1d4551196b73071ea4fce4774a310d2f029436c244d9f26cb081dba4268789b8",
+      "extract_dir": "docli_0.2.0_x86_64-pc-windows-msvc",
       "bin": "bin/docli.exe"
     }
   }
