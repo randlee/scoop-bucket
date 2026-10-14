@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "description": "Extract .NET assembly type graphs to RDF",
+  "homepage": "https://github.com/randlee/roslyn-graph",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/randlee/roslyn-graph/releases/download/v0.1.0/roslyn-graph_0.1.0_win-x64.zip",
+      "hash": "38ff0bd97ea67bcd2f8a1686a1342091af5ae29c098350a57d9dcc1c5f249f12"
+    }
+  },
+  "bin": [
+    [
+      "RoslynToRdf.Cli.exe",
+      "roslyn2rdf"
+    ]
+  ],
+  "checkver": {
+    "github": "https://github.com/randlee/roslyn-graph"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/randlee/roslyn-graph/releases/download/v$version/roslyn-graph_$version_win-x64.zip"
+      }
+    }
+  }
+}
