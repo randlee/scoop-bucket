@@ -1,19 +1,19 @@
 {
-  "version": "0.8.6",
+  "version": "0.8.8",
   "description": "Reusable repository policy enforcement lint tools for Rust workspaces",
   "homepage": "https://github.com/randlee/sc-lint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/randlee/sc-lint/releases/download/v0.8.6/sc-lint_0.8.6_x86_64-pc-windows-msvc.zip",
-      "hash": "384cd9c7b6236d9db027bed3f6e7733880130f1fefd633a7c7fc9b6e8ce1b182",
-      "extract_dir": "sc-lint_0.8.6_x86_64-pc-windows-msvc",
+      "url": "https://github.com/randlee/sc-lint/releases/download/v0.8.8/sc-lint_0.8.8_x86_64-pc-windows-msvc.zip",
+      "hash": "5b37a0ff509170d9f151d6c5727a4f61e0d27ddc29d6c6147b657f2db8c3d613",
+      "extract_dir": "sc-lint_0.8.8_x86_64-pc-windows-msvc",
       "bin": "bin/sc-lint.exe"
     },
     "arm64": {
-      "url": "https://github.com/randlee/sc-lint/releases/download/v0.8.6/sc-lint_0.8.6_aarch64-pc-windows-msvc.zip",
-      "hash": "d2c0b97f479d023b33148d7310ceafc953ba9d1fd212271db947749188db6b2e",
-      "extract_dir": "sc-lint_0.8.6_aarch64-pc-windows-msvc",
+      "url": "https://github.com/randlee/sc-lint/releases/download/v0.8.8/sc-lint_0.8.8_aarch64-pc-windows-msvc.zip",
+      "hash": "23289887f1f7527de316ebbb5334d8068b556f2ad18d3189e3dc9ed6b83df6de",
+      "extract_dir": "sc-lint_0.8.8_aarch64-pc-windows-msvc",
       "bin": "bin/sc-lint.exe"
     }  }
 }
