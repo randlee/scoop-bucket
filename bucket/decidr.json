@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "description": "TypeSafe decision client (decidr), sitr tree-sitter CLI, workspace crates, and Python bindings for Synaptic Canvas agents",
+  "homepage": "https://github.com/randlee/sc-agent",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/randlee/sc-agent/releases/download/v0.1.0/sc-agent_0.1.0_x86_64-pc-windows-msvc.zip",
+      "hash": "609135089bf03bd4746b77cdf362dd4d316135efd010b0890cb5f72e81c0f629",
+      "extract_dir": "sc-agent_0.1.0_x86_64-pc-windows-msvc",
+      "bin": ["bin/decidr.exe","bin/sitr.exe"]
+    }
+  }
+}
