@@ -1,13 +1,13 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Standalone CLI for template composition",
   "homepage": "https://github.com/randlee/sc-compose",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/randlee/sc-compose/releases/download/v1.8.0/sc-compose_1.8.0_x86_64-pc-windows-msvc.zip",
-      "hash": "987c33e1a8d66d364c3a3b85e8e54b10f47d60321ac464cd87a15b9245a91335",
-      "extract_dir": "sc-compose_1.8.0_x86_64-pc-windows-msvc",
+      "url": "https://github.com/randlee/sc-compose/releases/download/v1.9.0/sc-compose_1.9.0_x86_64-pc-windows-msvc.zip",
+      "hash": "20349bd3a0618f14601586261fe1b09c05d82642dfb3104bfcca5e51534a8bdd",
+      "extract_dir": "sc-compose_1.9.0_x86_64-pc-windows-msvc",
       "bin": "bin/sc-compose.exe"
     }
   }
